@@ -1,7 +1,9 @@
 # Your code goes here!
 class Dog 
   
-  inialize 
+  def bark
+    puts "woof!"
+  end
   
 end
 
